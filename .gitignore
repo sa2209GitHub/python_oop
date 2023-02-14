@@ -1,0 +1,7 @@
+node_modules
+tempCodeRunner.*
+Desktop.ini
+.DS_Store
+Thumbs.db
+venv
+__pycache__
