@@ -15,3 +15,6 @@
 13. Magic Methods: _\_\_str\_\_()_, _\_\_repr\_\_()_, _\_\_len\_\_()_ and _\_\_abs\_\_()_ [[code]](./lesson_13.py) *
 14. Magic Methods of Arithmetic Operations: _\_\_add\_\_()_, _\_\_sub\_\_()_, _\_\_mul\_\_()_, _\_\_truediv\_\_()_ [[code]](./lesson_14.py) *
 15. Magic Methods of Comparisons: _\_\_eq\_\_()_, _\_\_ne\_\_()_, _\_\_lt\_\_()_, _\_\_le\_\_()_, _\_\_gt\_\_()_, _\_\_ge\_\_()_ [[code]](./lesson_15.py)
+16. Object Hashes. Magic Methods: _\_\_eq\_\_()_ and _\_\_hash\_\_()_ [[code]](./lesson_16.py)
+17. Magic Method _\_\_bool\_\_()_ [[code]](./lesson_17.py)
+18. Magic Methods: _\_\_getitem\_\_()_, _\_\_setitem\_\_()_, _\_\_delitem\_\_()_ [[code]](./lesson_18.py)
