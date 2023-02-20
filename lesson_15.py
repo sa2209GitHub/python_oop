@@ -43,7 +43,6 @@ print(c2 == c3)
 print(c3 == 2000)
 print(c3 == 2002)
 print(2000 == c3)
-
 print(c3 != 1000)
 
 # __lt__()
