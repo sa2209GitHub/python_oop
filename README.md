@@ -13,5 +13,5 @@
 11. Data Descriptor and Non-data Descriptor [[code]](./lesson_11.py) *
 12. Magic Method _\_\_call\_\_()_. Functors and Decorator Classes [[code]](./lesson_12.py) *
 13. Magic Methods: _\_\_str\_\_()_, _\_\_repr\_\_()_, _\_\_len\_\_()_ and _\_\_abs\_\_()_ [[code]](./lesson_13.py) *
-14. Magic Methods of Arithmetic Operations: _\_\_add\_\_()_, _\_\_sub\_\_()_, _\_\_mul\_\_()_, _\_\_truedev\_\_()_ [[code]](./lesson_14.py) *
+14. Magic Methods of Arithmetic Operations: _\_\_add\_\_()_, _\_\_sub\_\_()_, _\_\_mul\_\_()_, _\_\_truediv\_\_()_ [[code]](./lesson_14.py) *
 15. Magic Methods of Comparisons: _\_\_eq\_\_()_, _\_\_ne\_\_()_, _\_\_lt\_\_()_, _\_\_le\_\_()_, _\_\_gt\_\_()_, _\_\_ge\_\_()_ [[code]](./lesson_15.py)
