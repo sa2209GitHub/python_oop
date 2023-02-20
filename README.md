@@ -18,3 +18,6 @@
 16. Object Hashes. Magic Methods: _\_\_eq\_\_()_ and _\_\_hash\_\_()_ [[code]](./lesson_16.py)
 17. Magic Method _\_\_bool\_\_()_ [[code]](./lesson_17.py)
 18. Magic Methods: _\_\_getitem\_\_()_, _\_\_setitem\_\_()_, _\_\_delitem\_\_()_ [[code]](./lesson_18.py)
+19. Magic Methods: _\_\_iter\_\_()_ and _\_\_next\_\_()_ [[code]](./lesson_19.py)
+20. Inheritance [[code]](./lesson_20.py)
+21. Class Inheritance From Class _object_ [[code]](./Lesson_21.py)

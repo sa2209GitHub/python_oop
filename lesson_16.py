@@ -1,5 +1,5 @@
 # Object Hashes.
-# Magic Methods __eq__() and __hash__()
+# Magic Methods: __eq__() and __hash__()
 
 class Point:
     def __init__(self, x, y):
@@ -17,4 +17,6 @@ p1 = Point(1, 2)
 p2 = Point(1, 2)
 
 print(hash(p1), hash(p2), sep='\n')
+print(hash(p1) == hash(p2))
+
 # print(p1 == p2)
