@@ -1,5 +1,5 @@
 # Magic Methods of Arithmetic Operations:
-# __add__(), __sub__(), __mul__(), __truediv__()
+# '__add__()', '__sub__()', '__mul__()', '__truediv__()'
 
 class Integer:
     def __init__(self, number: int):

@@ -1,4 +1,4 @@
-# Collection __slots__
+# Collection '__slots__'
 
 import timeit
 

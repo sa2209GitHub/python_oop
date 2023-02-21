@@ -1,17 +1,17 @@
 # Introduction to
 # Exception Handling
-# try and except Blocks
+# 'try' and 'except' Blocks
 
-# print("When forty winters shall beseige thy brow,")
-# print("And dig deep trenches in thy beauty's field,")
-# print("Thy youth's proud livery, so gazed on now,")
-# print("Will be a tatter'd weed, of small worth held:")
-# print()
-# print("Then being ask'd where all thy beauty lies,")
-# print("Where all the treasure of thy lusty days,")
-# print("To say, within thine own deep-sunken eyes,")
-# print("Were an all-eating shame and thriftless praise.")
-# print("\n. . .\n")
+print("When forty winters shall beseige thy brow,")
+print("And dig deep trenches in thy beauty's field,")
+print("Thy youth's proud livery, so gazed on now,")
+print("Will be a tatter'd weed, of small worth held:")
+print()
+print("Then being ask'd where all thy beauty lies,")
+print("Where all the treasure of thy lusty days,")
+print("To say, within thine own deep-sunken eyes,")
+print("Were an all-eating shame and thriftless praise.")
+print("\n. . .\n")
 
 try:
     print(Shakespire)
@@ -34,6 +34,6 @@ try:
 except ValueError:
     print('Data type Error')
 except ArithmeticError:
-    print("Zero division Error")
+    print("Division by zero Error")
 
 print("Regular completion")

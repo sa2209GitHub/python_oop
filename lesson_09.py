@@ -1,4 +1,4 @@
-# Getting To Know The _@property_ Object
+# Getting To Know The '@property' Object
 
 class Person:
     def __init__(self, name, age):

@@ -1,6 +1,6 @@
 # Magic Methods:
-# __setattr__(), __getattribute__(),
-# __getattr__() and __delattr__()
+# '__setattr__()', '__getattribute__()',
+# '__getattr__()' and '__delattr__()'
 
 class Point:
     MIN_COORD = 0

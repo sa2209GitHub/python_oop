@@ -1,4 +1,4 @@
-# Inheritance. super() Function
+# Inheritance. 'super()' Function
 
 class Geom:
     name = 'Geom'

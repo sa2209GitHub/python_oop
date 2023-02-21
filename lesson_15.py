@@ -1,6 +1,6 @@
 # Magic Methods of Comparisons:
-# __eq__(), __ne__(), __lt__(),
-# __le__(), __gt__(), __ge__()
+# '__eq__()', '__ne__()', '__lt__()',
+# '__le__()', '__gt__()', '__ge__()'
 
 
 class Clock:

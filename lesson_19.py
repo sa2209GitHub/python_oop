@@ -1,5 +1,5 @@
 # Magic Methods:
-# __iter__() and __next__()
+# '__iter__()' and '__next__()'
 
 class FloatRange:
     def __init__(self, start=0.0, stop=0.0, step=1.0):

@@ -1,4 +1,4 @@
-# @classmethod and @staticmethod Decorators
+# '@classmethod' and '@staticmethod' Decorators
 
 class Vector:
     MIN_COORD = 0

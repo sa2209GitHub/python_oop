@@ -1,4 +1,4 @@
-# Magic Method __bool__()
+# Magic Method '__bool__()'
 
 class Point:
     def __init__(self, x, y):

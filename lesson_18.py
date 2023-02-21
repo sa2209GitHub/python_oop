@@ -1,5 +1,5 @@
 # Magic Methods:
-# __getitem__(), __setitem__(), __delitem__()
+# '__getitem__()', '__setitem__()', '__delitem__()'
 
 class Student:
     def __init__(self, name, marks):

@@ -1,4 +1,4 @@
-# Magic Method __new__()
+# Magic Method '__new__()'
 
 class Point:
     def __new__(cls, *args, **kwargs):

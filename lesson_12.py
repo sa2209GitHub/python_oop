@@ -1,4 +1,4 @@
-# Magic Method __call__().
+# Magic Method '__call__()'.
 # Functors and Decorator Classes
 
 import math

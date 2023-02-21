@@ -1,5 +1,5 @@
 # Object Hashes.
-# Magic Methods: __eq__() and __hash__()
+# Magic Methods: '__eq__()' and '__hash__()'
 
 class Point:
     def __init__(self, x, y):

@@ -1,5 +1,5 @@
-# How __slots__ Works With
-# _@property_ and Inheritance
+# How '__slots__' Works With
+# @property and Inheritance
 
 # class Point2D:
 #     __slots__ = ('x', 'y', '__length')

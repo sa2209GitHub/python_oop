@@ -1,6 +1,6 @@
 # Magic Methods:
-# __str__(), __repr__(),
-# __len__() and __abs__()
+# '__str__()', '__repr__()',
+# '__len__()' and '__abs__()'
 
 class Cat:
     def __init__(self, name):

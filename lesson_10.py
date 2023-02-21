@@ -1,4 +1,4 @@
-# _@property_ Object Example
+# '@property' Object Example
 
 from string import ascii_letters
 
