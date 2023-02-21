@@ -21,3 +21,6 @@
 19. Magic Methods: _\_\_iter\_\_()_ and _\_\_next\_\_()_ [[code]](./lesson_19.py)
 20. Inheritance [[code]](./lesson_20.py)
 21. Class Inheritance From Class _object_ [[code]](./Lesson_21.py)
+22. Inheritance. _super()_ Function [[code]](./lesson_22.py)
+23. Access Modes: _piblic_, _\_private_, _\_\_protected_ [[code]](./lesson_23.py)
+24. Polymorphism [[code]](./lesson_24.py)
