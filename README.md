@@ -31,4 +31,5 @@
 29. Exception Handling. _'finally'_ and _'else'_ Blocks [[code]](./lesson_29.py)
 30. Exception Propagation (_'try'_, _'except'_, _'finally'_, _'else'_) [[code]](./lesson_30.py)
 31. _'raise'_ Statement and Custom Exceptions [[code]](./lesson_31.py)
-32. _'with'_ context manager [[code]](./lesson_32.py)
+32. _'with'_ Context Manager [[code]](./lesson_32.py)
+33. Nested Classes [[code]](./lesson_33.py)
