@@ -29,3 +29,5 @@
 27. How _'\_\_slots\_\_'_ Works With _'@property'_ and Inheritance [[code]](./lesson_27.py)
 28. Introduction to Exception Handling. _'try'_ and _'except'_ blocks [[code]](./lesson_28.py)
 29. Exception Handling. _'finally'_ and _'else'_ Blocks [[code]](./lesson_29.py)
+30. Exception Propagation (_'try'_, _'except'_, _'finally'_, _'else'_) [[code]](./lesson_30.py)
+31. _'raise'_ Statement and Custom Exceptions [[code]](./lesson_31.py)

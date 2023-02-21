@@ -36,3 +36,40 @@ except FileNotFoundError as err:
     print(err)
 except:
     print("Unknown Exception Error")
+
+
+def get_values():
+    try:
+        x, y = map(int, input(
+            "Enter two numbers separated by a space: ").split())
+        return x, y
+    except ValueError as e:
+        print(e)
+        return 0, 0
+    finally:
+        print("The 'finally' block is executed before the 'return' statement")
+
+
+x, y = get_values()
+print(x, y)
+
+
+def div(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError as e:
+        return e
+
+
+def get_values2():
+    try:
+        x, y = map(int, input(
+            "Enter two numbers separated by a space: ").split())
+        result = div(x, y)
+        return result
+    except ValueError as e:
+        print(e)
+
+
+result = get_values2()
+print(result)
