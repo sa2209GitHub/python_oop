@@ -31,7 +31,8 @@ finally:
 
 try:
     with open("./myfile.txt", "a") as f:
-        f.write("Lesson 29(2). Exception Handling. 'finally' and 'else' Blocks\n")
+        f.write(
+            "Lesson 29(2). Exception Handling. 'finally' and 'else' Blocks...\nSee you in lesson 32 . . .\n")
 except FileNotFoundError as err:
     print(err)
 except:
