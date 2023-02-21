@@ -27,3 +27,5 @@
 25. Multiple Inheritance [[code]](./lesson_25.py)
 26. Collection _\_\_slots\_\__ [[code]](./lesson_26.py)
 27. How _\_\_slots\_\__ Works With _@property_ and Inheritance [[code]](./lesson_27.py)
+28. Introduction to Exception Handling. _try_ and _except_ blocks [[code]](./lesson_28.py)
+29. Exception Handling. _finally_ and _else_ Blocks [[code]](./lesson_29.py)
