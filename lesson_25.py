@@ -32,6 +32,10 @@ class MixinLog:
 
 
 class Notebook(Goods, MixinLog):
+    # Overriding a base class method as needed
+    # def get_info(self):
+    #     MixinLog.get_info(self)
+
     pass
 
 
@@ -49,6 +53,6 @@ class GPU:
 
 n = Notebook("Apple", 1.3, 120988)
 print(n.get_info())
-MixinLog.get_info(n)
+# MixinLog.get_info(n)
 n.write_sell_log()
 print(Notebook.__mro__)

@@ -26,3 +26,4 @@
 24. Polymorphism [[code]](./lesson_24.py)
 25. Multiple Inheritance [[code]](./lesson_25.py)
 26. Collection _\_\_slots\_\__ [[code]](./lesson_26.py)
+27. How _\_\_slots\_\__ Works With _@property_ and Inheritance [[code]](./lesson_27.py)
