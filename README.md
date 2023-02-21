@@ -33,3 +33,5 @@
 31. _'raise'_ Statement and Custom Exceptions [[code]](./lesson_31.py)
 32. _'with'_ Context Manager [[code]](./lesson_32.py)
 33. Nested Classes [[code]](./lesson_33.py)
+34. Metaclasses (Dynamic Сlass Сreation) [[code]](./lesson_34.py)
+35. Custom Metaclasses. _'metaclass'_ Parameter [[code]](./lesson_35.py)
