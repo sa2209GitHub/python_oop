@@ -1,5 +1,5 @@
 #
-# 30
+#   30
 #
 # Exception propagation
 # ('try', 'except', 'finally', 'else')
