@@ -35,3 +35,5 @@
 33. Nested Classes [[code]](./lesson_33.py)
 34. Metaclasses (Dynamic Сlass Сreation) [[code]](./lesson_34.py)
 35. Custom Metaclasses. _'metaclass'_ Parameter [[code]](./lesson_35.py)
+36. An Example of Using Metaclasses [[code]](./lesson_36.py)
+37. Introduction to Data Classes [[code]](./lesson_37.py)
