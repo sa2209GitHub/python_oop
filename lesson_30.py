@@ -20,7 +20,7 @@ print("Will be a tatter'd weed, of small worth held:")
 try:
     func1()
 except Exception as e:
-    print(f"\n>>>>>>>>>>>>> {e} <<<<<<<<<<<<<")
+    print(f"\n>>>>>>>>>>>> {e} <<<<<<<<<<<<<")
 
 print()
 print("Then being ask'd where all thy beauty lies,")
