@@ -1,3 +1,6 @@
+#
+# 8
+#
 # Monostate Pattern
 
 class ThreadData:

@@ -1,3 +1,6 @@
+#
+# 1
+#
 # My First Class
 
 class Point:

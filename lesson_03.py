@@ -1,3 +1,6 @@
+#
+# 3
+#
 # Initializer and Finalizer
 
 class Point:

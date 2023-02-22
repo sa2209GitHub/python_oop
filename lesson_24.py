@@ -1,3 +1,6 @@
+#
+# 24
+#
 # Polymorphism
 
 class Primitive:

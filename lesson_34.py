@@ -1,3 +1,4 @@
+# 34
 # Metaclasses (Dynamic Сlass Сreation)
 
 class B1:

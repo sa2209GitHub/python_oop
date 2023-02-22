@@ -1,3 +1,6 @@
+#
+# 6
+#
 # Encapsulation Mechanism
 
 class Point:

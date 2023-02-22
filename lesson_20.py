@@ -1,3 +1,6 @@
+#
+# 20
+#
 # Inheritance
 
 class Geom:

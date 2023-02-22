@@ -1,3 +1,6 @@
+#
+# 4
+#
 # Magic Method '__new__()'
 
 class Point:

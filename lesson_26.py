@@ -1,3 +1,6 @@
+#
+# 26
+#
 # Collection '__slots__'
 
 import timeit

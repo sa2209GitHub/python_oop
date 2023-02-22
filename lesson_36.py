@@ -1,3 +1,4 @@
+# 36
 # An Example of Using Metaclasses
 
 class Meta(type):

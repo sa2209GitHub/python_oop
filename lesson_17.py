@@ -1,3 +1,6 @@
+#
+# 17
+#
 # Magic Method '__bool__()'
 
 class Point:
