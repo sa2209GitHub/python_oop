@@ -17,11 +17,12 @@ print("Were an all-eating shame and thriftless praise.")
 print("\n. . .\n")
 
 try:
-    print(Shakespire)
+    print('Shakespire' / 0)
 except Exception:
     print("Error")
 
-print("Regular completion")
+    print("Regular completion\n")
+
 
 try:
     file_name = "file.txt"
