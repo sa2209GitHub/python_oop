@@ -50,7 +50,7 @@ class Book(Goods):
 b = Book()
 b2 = Book(1000, 100, "Pythop OOP", "Programmer Joe")
 b3 = Book(1024, 128, "Just Book", "Just Name")
-b4 = Book(1024, 128, "Just Book", "Just Name", [1, 2, 3])
+b4 = Book(1024, 128, "Just Book", "Just Name", [210, 297, 5])
 
 print(b)
 print(b2)
@@ -86,7 +86,7 @@ print(car.get_info())
 del car, Car
 
 
-# The same class using 'make_dataclass()' method
+# Same class using 'make_dataclass()' method
 
 
 Car = make_dataclass("Car", [('brand', str),

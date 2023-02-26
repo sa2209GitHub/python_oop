@@ -38,4 +38,5 @@
 36. An Example of Using Metaclasses [[code]](./lesson_36.py)
 37. Introduction to Data Classes. Part 1 [[code]](./lesson_37.py)
 38. Introduction to Data Classes. Part 2 [[code]](./lesson_38.py)
-39. Using Data Classes in Inheritance and _'make_dataclass()'_ method [[code]](./lesson_39.py)
+39. Using Data Classes in Inheritance and _'make\_dataclass()'_ method [[code]](./lesson_39.py)
+40. _'SOLID'_ principles [[code]](./lesson_40.py)
